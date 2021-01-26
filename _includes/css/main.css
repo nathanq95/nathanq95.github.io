@@ -518,6 +518,7 @@ header .intro-text .name {
         display: none;
     }
     header {
-        background-size: cover;
+        background-image: none;
+        background-color: lightblue;
     }
 }
