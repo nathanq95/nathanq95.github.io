@@ -512,3 +512,9 @@ header .intro-text .name {
         overflow: hidden!important;
     }
 }
+
+@media (max-width: 480px) {
+    a.navbar-brand {
+        display: none;
+    }
+}
