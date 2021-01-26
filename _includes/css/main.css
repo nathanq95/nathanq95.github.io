@@ -517,4 +517,7 @@ header .intro-text .name {
     a.navbar-brand {
         display: none;
     }
+    header {
+        background-size: contain;
+    }
 }
