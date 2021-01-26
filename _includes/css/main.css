@@ -518,6 +518,6 @@ header .intro-text .name {
         display: none;
     }
     header {
-        background-size: contain;
+        background-size: cover;
     }
 }
